@@ -1,38 +1,37 @@
 <h1 align="center">Nitesh Chand</h1>
 <p align="center">
-  Frontend Developer | React & Next.js Specialist | Passionate about Scalable UI Engineering
+  Frontend-Focused Full Stack Developer | React, Next.js, TypeScript, Golang
 </p>
-
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Frontend Developer** with **3+ years of experience** building high-performance, accessible, and responsive web applications using modern technologies like **React**, **Next.js**, and **TypeScript**.
+I'm a **Frontend-focused Full Stack Developer with 2+ years of experience**
+building production-grade, scalable web applications using **React, Next.js,
+TypeScript, and Golang**.
 
-I’ve successfully:
-- 📈 Improved app load time by **30%**
-- ♿ Enhanced accessibility compliance by **30%**
-- 🧪 Reduced production bugs by **20%** through automated testing
-- 🧱 Developed scalable design systems used across multiple teams
+I enjoy owning features end-to-end — from crafting accessible, high-performance
+UIs to designing secure REST APIs and deploying applications used by real users.
 
-Currently, I’m working as a **Senior Software Developer at IMA360 Pvt. Ltd.**, where I focus on performance, accessibility, and testing in production-grade applications.
+Currently working as a **Senior Software Developer at IMA360 Pvt. Ltd.**, where I:
+- Improve frontend performance and Lighthouse scores
+- Build accessibility-first features (ARIA, voice navigation)
+- Lead Cypress test automation reducing production defects by ~20%
+
+I care deeply about clean code, performance, accessibility, and building things
+that actually get used.
 
 ---
 
 ### 🧰 Tech Stack
-<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
-
-</div>
+**Languages:** JavaScript (ES6+), TypeScript, Golang  
+**Frontend:** React.js, Next.js (App Router), Redux, Tailwind CSS  
+**Backend:** Golang (Gin), REST APIs, JWT Authentication  
+**Database:** PostgreSQL, GORM  
+**Testing & Tools:** Cypress, Git, GitHub, Postman  
+**Deployment:** Vercel, Render  
 
 ---
 
@@ -40,64 +39,54 @@ Currently, I’m working as a **Senior Software Developer at IMA360 Pvt. Ltd.**,
 
 #### **Senior Software Developer**  
 **IMA360 Pvt. Ltd.** (Sep 2024 – Present)
-- Improved application performance by **30%** through code optimization
-- Reduced server response time by **25%** via API and frontend refinements
-- Implemented **voice navigation** to boost accessibility standards
-- Built Cypress tests to enhance stability and catch edge cases early
+- Improved frontend performance and Lighthouse scores through optimization
+- Implemented accessibility-first features including voice navigation
+- Built Cypress test suites to improve release stability and reduce defects
+- Owned end-to-end feature development in agile sprints
 
 #### **Frontend Developer**  
-**Exikon Technology Pvt. Ltd.** (Jul 2023 – Aug 2024)  
-- Developed reusable components with **React + Tailwind**
-- Integrated APIs and improved data flow latency by **15%**
-- Worked closely with design and QA teams to deliver **pixel-perfect UIs**
-
-#### **Frontend Intern**  
-**IMA360 Pvt. Ltd.** (Jan 2022 – Jun 2023)  
-- Built modular components and contributed to faster feature rollouts
-- Participated in code reviews and learned best practices from senior devs
+**Exikon Technology Pvt. Ltd.** (Jul 2023 – Aug 2024)
+- Built reusable and scalable React components using Tailwind CSS
+- Integrated RESTful APIs and improved client-side data flow
+- Collaborated with design and QA teams to deliver pixel-perfect UIs
 
 ---
 
 ### 📂 Projects
 
-#### 🖊️ Whiteboard Desktop App  
-> Real-time collaborative drawing tool with export, undo/redo  
-> **Tech:** React, JavaScript, Canvas API  
-🔗 [Source Code](https://github.com/niteshchand/whiteboard)
+#### 🎟️ Mini-Eventify — Full Stack Event Booking Platform  
+**Tech:** Next.js, React, Golang (Gin), PostgreSQL, JWT, Tailwind CSS  
+- Built and deployed a full-stack event discovery and booking platform
+- Designed RESTful APIs for users, events, and bookings with role-based access
+- Implemented JWT-based authentication and PostgreSQL data modeling
+- Deployed frontend on Vercel and backend on Render  
 
-#### 📊 Next.js Dashboard  
-> Admin dashboard with dynamic filters and responsive design  
-> **Tech:** Next.js, TypeScript, Tailwind CSS  
-🔗 [Source Code](https://github.com/niteshchand/whiteboard)
+🔗 Live: https://mini-eventify-frontend.vercel.app/  
+🔗 Code: https://github.com/niteshchand/mini-eventify  
+
+---
+
+#### 🖊️ Whiteboard Collaborative App  
+**Tech:** React, JavaScript, Canvas API  
+- Developed a real-time drawing application with undo/redo and export features  
+
+🔗 Code: https://github.com/niteshchand/whiteboard  
 
 ---
 
 ### 🎓 Education
 
-**B.Tech in Information Technology**  
+**B.Tech – Information Technology**  
 Guru Tegh Bahadur Institute of Technology (GTBIT), Delhi  
-📊 GPA: 9.3 / 10
+**GPA:** 9.3 / 10  
 
----
-
-### 📈 GitHub Insights
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=niteshchand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-<br />
-![Streak](https://streak-stats.demolab.com?user=niteshchand&theme=tokyonight&hide_border=true)
-<br />
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshchand&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 ---
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nitesh-chand-157107178/)
-- 📧 [niteshchand478@gmail.com](mailto:niteshchand478@gmail.com)
-- 💻 [GitHub](https://github.com/niteshchand)
+- 💼 LinkedIn: https://www.linkedin.com/in/nitesh-chand-157107178/
+- 📧 Email: niteshchand478@gmail.com
+- 💻 GitHub: https://github.com/niteshchand
 
 ---
 
