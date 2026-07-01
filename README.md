@@ -19,13 +19,13 @@
 
 ## 🤖 What I Build
 
-> **AI-Integrated Full Stack Engineer** with 2+ years shipping production-grade web apps.
+> **AI-Integrated Full Stack Engineer** with 3 years shipping production-grade web apps.
 > I recently crossed into AI engineering — building RAG systems, LLM integrations, and streaming interfaces from scratch.
 
 ```typescript
 const nitesh = {
   role:       "AI-Integrated Full Stack Engineer",
-  experience: "2+ years in production",
+  experience: "3 years in production",
   currently:  "Senior Software Developer @ IMA360",
   building:   "RAG-powered AI chat platforms",
   stack:      ["Next.js", "Golang", "PostgreSQL", "Groq", "Gemini"],
@@ -144,7 +144,7 @@ PDF Upload → Text Extraction → 500-token Chunks → Gemini Embeddings
 
 ## 💼 Experience
 
-**🏢 Senior Software Developer — IMA360 Pvt. Ltd.** *(Sep 2024 – Present)*
+**🏢 Software Developer — IMA360 Pvt. Ltd.** *(Sep 2024 – Present)*
 - Delivered accessibility-first features including voice navigation, improving usability for diverse users
 - Led Cypress test automation reducing production defects by **~20%**
 - Improved Lighthouse scores via code-splitting, memoization, and optimized rendering
