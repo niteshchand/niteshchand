@@ -26,7 +26,7 @@
 const nitesh = {
   role:       "AI-Integrated Full Stack Engineer",
   experience: "3 years in production",
-  currently:  "Senior Software Developer @ IMA360",
+  currently:  "Software Developer @ IMA360",
   building:   "RAG-powered AI chat platforms",
   stack:      ["Next.js", "Golang", "PostgreSQL", "Groq", "Gemini"],
   superpower: "Full stack + AI = rare combo 🚀"
