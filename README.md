@@ -1,6 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nitesh+Chand+%F0%9F%91%8B;AI-Integrated+Full+Stack+Engineer;React+%7C+Next.js+%7C+Golang+%7C+RAG;Building+AI-Powered+Products" alt="Typing SVG" />
+  Hi, I'm Nitesh Chand 👋
 </h1>
+
+<p align="center">
+  <strong>Software Engineer | React • Next.js • TypeScript • Golang • PostgreSQL</strong>
+</p>
+
+<p align="center">
+  Building scalable web applications, full-stack products, and AI-powered applications.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nitesh-chand-157107178/">
@@ -9,186 +17,307 @@
   <a href="mailto:niteshchand478@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/niteshchand">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://ai-chat-frontend-iota.vercel.app">
     <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=niteshchand&style=for-the-badge&color=1a56db" />
 </p>
 
 ---
 
-## 🤖 What I Build
+## 👨‍💻 About Me
 
-> **AI-Integrated Full Stack Engineer** with 3 years shipping production-grade web apps.
-> I recently crossed into AI engineering — building RAG systems, LLM integrations, and streaming interfaces from scratch.
+I'm a **Software Engineer with 3+ years of experience** building production web applications.
 
-```typescript
-const nitesh = {
-  role:       "AI-Integrated Full Stack Engineer",
-  experience: "3 years in production",
-  currently:  "Software Developer @ IMA360",
-  building:   "RAG-powered AI chat platforms",
-  stack:      ["Next.js", "Golang", "PostgreSQL", "Groq", "Gemini"],
-  superpower: "Full stack + AI = rare combo 🚀"
-};
+My strongest area is **frontend engineering** with React, Next.js, and TypeScript, with hands-on experience building backend services and APIs using **Golang, Gin, PostgreSQL, GORM, and JWT**.
+
+I'm also exploring AI engineering through practical projects involving **RAG pipelines, vector embeddings, LLM APIs, and real-time streaming**.
+
+Currently working as a **Software Engineer at IMA360**.
+
+### What I work on
+
+* ⚛️ React & Next.js applications
+* 🟦 TypeScript & JavaScript
+* 🚀 Frontend performance optimization
+* ♿ Accessibility & WCAG
+* 🔌 REST APIs & full-stack integrations
+* 🐹 Golang backend services
+* 🐘 PostgreSQL & GORM
+* 🤖 RAG & LLM-powered applications
+* ⚡ SSE / real-time streaming
+* 🧪 Cypress E2E testing
+* 🐳 Docker & deployment
+
+---
+
+## 🚀 Featured Project
+
+# 🤖 AI Chat Platform with RAG
+
+A full-stack AI chat application built from scratch using **Next.js, Golang, PostgreSQL, pgvector, and LLM APIs**.
+
+### ✨ Key Features
+
+* 🧠 **RAG Pipeline** for querying uploaded PDF documents
+* 📄 PDF upload and text extraction
+* ✂️ 500-token document chunking
+* 🔢 Gemini-powered vector embeddings
+* 🔍 Cosine similarity search
+* ⚡ Real-time LLM streaming using **Server-Sent Events (SSE)**
+* 🔐 JWT authentication
+* 🚦 Per-user rate limiting
+* 💬 Persistent conversation history
+* 🧩 Custom system prompts
+* ♿ WCAG 2.1 AA-focused accessibility
+* 🐳 Dockerized backend
+* ☁️ Frontend and backend deployment
+
+### 🏗️ RAG Architecture
+
+```text
+                    ┌─────────────────┐
+                    │   PDF Upload    │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Text Extraction │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ 500-token       │
+                    │ Chunking        │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Gemini          │
+                    │ Embeddings      │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Vector Storage  │
+                    │ / Search        │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Similarity      │
+                    │ Search          │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Top Relevant    │
+                    │ Chunks          │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Context         │
+                    │ Injection       │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │      LLM        │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ SSE Streaming   │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   Next.js UI    │
+                    └─────────────────┘
 ```
 
----
+### 🛠️ Tech Stack
 
-## 🔥 Featured Project — AI Chat Platform with RAG
+`Next.js` `TypeScript` `Golang` `Gin` `PostgreSQL` `pgvector`
+`JWT` `SSE` `Gemini` `Groq` `Docker`
 
-> **The project that changed everything.**
+<p align="center">
 
-<table>
-<tr>
-<td width="60%">
+<a href="https://ai-chat-frontend-iota.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-1A56DB?style=for-the-badge" />
+</a>
 
-### 💬 AI Chat + Document Intelligence
-A **production-grade AI chat platform** built from scratch with:
-- 🧠 **RAG Pipeline** — Upload any PDF, chat with it intelligently
-- ⚡ **Streaming** — ChatGPT-style SSE token streaming in Go
-- 🔐 **JWT Auth** — Multi-user with rate limiting (20 req/hr)
-- 🗂️ **Multi-conversation** — Sidebar like ChatGPT
-- ♿ **WCAG 2.1 AA** — Full accessibility compliance
-- 📊 **Vector Search** — Cosine similarity in pure Go
+<a href="https://github.com/niteshchand/ai-chat-frontend">
+<img src="https://img.shields.io/badge/Frontend_Code-181717?style=for-the-badge&logo=github" />
+</a>
 
-</td>
-<td width="40%" align="center">
+<a href="https://github.com/niteshchand/ai-chat-backend">
+<img src="https://img.shields.io/badge/Backend_Code-181717?style=for-the-badge&logo=github" />
+</a>
 
-**Tech Stack**
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-1a56db?style=for-the-badge)](https://ai-chat-frontend-iota.vercel.app)
-[![Backend](https://img.shields.io/badge/⚙️_Backend_Code-gray?style=for-the-badge)](https://github.com/niteshchand/ai-chat-backend)
-
-</td>
-</tr>
-</table>
-
-**How the RAG pipeline works:**
-```
-PDF Upload → Text Extraction → 500-token Chunks → Gemini Embeddings
-→ Cosine Similarity Search → Top 3 Chunks → LLM Context → Grounded Answer
-```
+</p>
 
 ---
 
-## 🧰 Tech Stack
+# 🎟️ Mini-Eventify
 
-<table>
-<tr>
-<td><b>AI & LLM</b></td>
-<td>
+A full-stack **event discovery and booking platform** built using Next.js and Golang.
 
-![RAG](https://img.shields.io/badge/RAG_Systems-FF6B6B?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM_APIs-4ECDC4?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Vector_Embeddings-45B7D1?style=flat-square)
-![SSE](https://img.shields.io/badge/SSE_Streaming-96CEB4?style=flat-square)
-![Prompt](https://img.shields.io/badge/Prompt_Engineering-FFEAA7?style=flat-square)
+### ✨ Key Features
 
-</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>
+* 🔐 JWT-based authentication
+* 👥 Role-based access control
+* 🎟️ Event discovery and booking
+* 🔎 Event filtering and search
+* 📄 Event details
+* 🔌 RESTful APIs
+* 🐘 PostgreSQL database
+* 🗃️ GORM
+* 📱 Responsive UI
+* 🐳 Docker
+* ☁️ Vercel + Render deployment
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+### 🛠️ Tech Stack
 
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
+`Next.js` `React` `TypeScript` `Golang` `Gin`
+`PostgreSQL` `GORM` `JWT` `Tailwind CSS` `Docker`
 
-![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
-![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square)
+<p align="center">
 
-</td>
-</tr>
-<tr>
-<td><b>Database</b></td>
-<td>
+<a href="https://mini-eventify-frontend.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-1A56DB?style=for-the-badge" />
+</a>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-316192?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-316192?style=flat-square)
+<a href="https://github.com/niteshchand/mini-eventify">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" />
+</a>
 
-</td>
-</tr>
-<tr>
-<td><b>Testing & Deploy</b></td>
-<td>
-
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-## 💼 Experience
+## 🛠️ Technical Skills
 
-**🏢 Software Developer — IMA360 Pvt. Ltd.** *(Sep 2024 – Present)*
-- Delivered accessibility-first features including voice navigation, improving usability for diverse users
-- Led Cypress test automation reducing production defects by **~20%**
-- Improved Lighthouse scores via code-splitting, memoization, and optimized rendering
+### 🎨 Frontend
 
-**🏢 Frontend Developer — Exikon Technology Pvt. Ltd.** *(Jul 2023 – Aug 2024)*
-- Built reusable React + Tailwind components improving scalability across the product
-- Integrated RESTful APIs and collaborated with design/QA for pixel-perfect delivery
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/SSE-Streaming-6C5CE7?style=for-the-badge" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge" />
+</p>
+
+### 🤖 AI & LLM
+
+<p>
+<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_Embeddings-45B7D1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_APIs-4ECDC4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+</p>
+
+### 🧪 Testing, DevOps & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
 
 ---
 
-## 📂 Other Projects
+## 💼 Professional Experience
 
-#### 🎟️ Mini-Eventify — Full Stack Event Booking Platform
-**Next.js · Golang · PostgreSQL · JWT · Tailwind CSS**
-Full-stack event discovery and booking platform with role-based access control, GORM migrations, and deployment on Vercel + Render.
+### 🏢 Software Engineer — IMA360 Pvt. Ltd.
 
-[![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)](https://mini-eventify-frontend.vercel.app)
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/niteshchand/mini-eventify)
+**Sep 2024 – Present**
+
+* Improved application load performance by approximately **40%** through Lighthouse and browser DevTools profiling, code optimization, and removal of **15+ unused libraries**.
+* Contributed to approximately **25% improvement in server response time** by identifying API and integration bottlenecks and collaborating with backend engineers.
+* Improved frontend performance through code splitting, memoization, and rendering optimization.
+* Delivered accessibility features including voice navigation and keyboard accessibility aligned with **WCAG 2.1 AA**.
+* Expanded Cypress E2E coverage for critical workflows, contributing to approximately **20% fewer production defects** according to sprint QA reports.
+* Owned end-to-end feature delivery across multiple sprints and participated in code reviews and engineering best-practice discussions.
+
+### 🏢 Frontend Developer — Exikon Technology Pvt. Ltd.
+
+**Jul 2023 – Aug 2024**
+
+* Built reusable React and Tailwind CSS components for scalable product interfaces.
+* Integrated RESTful APIs and optimized client-side data flows.
+* Collaborated with design and QA teams to deliver responsive and cross-browser interfaces.
+* Participated in code reviews and frontend performance improvements.
 
 ---
 
 ## 🎓 Education
 
-**B.Tech – Information Technology** | GPA: **9.3 / 10**
-Guru Tegh Bahadur Institute of Technology (GTBIT), Delhi | 2019 – 2023
+### B.Tech — Information Technology
+
+**Guru Tegh Bahadur Institute of Technology (GTBIT), Delhi**
+
+2019 – 2023
+
+**GPA: 9.3 / 10**
+
+---
+
+## 📈 Engineering Focus
+
+I'm particularly interested in building systems where **frontend engineering, backend development, and AI work together**.
+
+Current areas of interest:
+
+* ⚡ High-performance React & Next.js applications
+* 🐹 Golang backend engineering
+* 🗄️ PostgreSQL & data-intensive applications
+* 🤖 RAG and LLM-powered products
+* 🔍 Vector search and embeddings
+* ⚡ Real-time streaming systems
+* ♿ Accessible and inclusive interfaces
+* 🧪 Automated testing and engineering quality
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nitesh-chand-157107178/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:niteshchand478@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://ai-chat-frontend-iota.vercel.app">
-    <img src="https://img.shields.io/badge/Demo-Try_My_AI_App-1a56db?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+
+<a href="https://www.linkedin.com/in/nitesh-chand-157107178/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:niteshchand478@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://ai-chat-frontend-iota.vercel.app">
+<img src="https://img.shields.io/badge/AI_Chat-Try_Demo-1A56DB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </p>
 
 <p align="center">
-  <em>"Ship fast. Learn faster. Build things people actually use."</em>
+  <em>Build. Measure. Improve. Repeat.</em>
 </p>
+```
+
